@@ -4,6 +4,8 @@
     // the link to your model provided by Teachable Machine export panel
     const URL = "https://teachablemachine.withgoogle.com/models/Pm2dAeieW/";
 
+    //const URL = "model/";
+
     let model, webcam, labelContainer, maxPredictions;
 
     // Load the image model and setup the webcam
